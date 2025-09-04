@@ -22,3 +22,4 @@ document.getElementById("contact-form").addEventListener("submit", function (e) 
     // Reset the form
     document.getElementById("contact-form").reset();
 });
+
